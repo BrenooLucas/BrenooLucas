@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Breno Lucas
 
-**`Desenvolvedor Python`**
+**`Cientista Computacional`**
 
-Meu nome é Breno Lucas, tenho 27 anos e sou natural de São Paulo - SP. Tenho experiência como desenvolvedor e sou apaixonado por tecnologia. Atualmente, foco no desenvolvimento com Python. 
+Olá! Eu sou o Breno, tenho 27 anos e sou natural de São Paulo - SP. Sou formado em Ciência Da Computação (2021), e sou Técnico em TI (2024). Minha atuação na área de TI sempre foi pautada na parte de suporte técnico (que gosto muito, aliás). Pelo período de 01 ano, pude atuar em uma empresa voltada para a Segurança da Informação, onde tive contato com técnicas e fundamentos de segurança cibernética, podendo me desenvolver um pouco como Analista. Sou aficcionado pelo desenvolvimento Python, pois é a minha paixão. Conjuntamente com Python, gosto também de SQL. Aqui, dedicarei meus esforços e conhecimentos para contribuir com projetos que possam ser proveitosos para a comunidade científica e afins.
 
 <br/>
 
@@ -17,6 +17,14 @@ Meu nome é Breno Lucas, tenho 27 anos e sou natural de São Paulo - SP. Tenho e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
