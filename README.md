@@ -2,7 +2,10 @@
 
 **`Cientista Computacional`**
 
-Olá! Eu sou o Breno, tenho 27 anos e sou natural de São Paulo - SP. Sou formado em Ciência Da Computação (2021), e sou Técnico em TI (2024). Minha atuação na área de TI sempre foi pautada na parte de suporte técnico (que gosto muito, aliás). Pelo período de 01 ano, pude atuar em uma empresa voltada para a Segurança da Informação, onde tive contato com técnicas e fundamentos de segurança cibernética, podendo me desenvolver um pouco como Analista. Sou aficcionado pelo desenvolvimento Python, pois é a minha paixão. Conjuntamente com Python, gosto também de SQL. Aqui, dedicarei meus esforços e conhecimentos para contribuir com projetos que possam ser proveitosos para a comunidade científica e afins.
+Olá! Eu sou o Breno, tenho 27 anos e sou natural de São Paulo - SP. 
+Sou formado em Ciência Da Computação (2021), e sou Técnico em TI (2024). Minha atuação na área de TI sempre foi pautada na parte de suporte técnico (que gosto muito, aliás). Pelo período de 01 ano, pude atuar em uma empresa voltada para a Segurança da Informação, onde tive contato com técnicas e fundamentos de segurança cibernética, podendo me desenvolver um pouco como Analista. 
+Sou aficcionado pelo desenvolvimento Python, pois é a minha paixão. Conjuntamente com Python, gosto também de SQL. 
+Aqui, dedicarei meus esforços e conhecimentos para contribuir com projetos que possam ser proveitosos para a comunidade científica e afins.
 
 <br/>
 
@@ -24,11 +27,13 @@ Olá! Eu sou o Breno, tenho 27 anos e sou natural de São Paulo - SP. Sou formad
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg)" 
 />
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
