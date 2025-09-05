@@ -27,7 +27,7 @@ Aqui, dedicarei meus esforços e conhecimentos para contribuir com projetos que 
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
 <br/>
