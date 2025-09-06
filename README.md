@@ -124,7 +124,7 @@
     Por enquanto, isso é tudo! 😉<br><br>
     Se chegou até aqui, muito obrigado pela visita. <br>
     Ainda estou começando por aqui, mas com dedicação e curiosidade, a jornada vai longe! <br><br>
-    Espero que possamos trocar ideias e aprender juntos. Nos encontramos pelos repositórios da vida. Até a próxima! 🚀
+    Até a próxima!
 </h3>
 
 <br><p align="center">
