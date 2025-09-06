@@ -5,7 +5,7 @@
 <hr>
 
 <h1 align="center">
-  Olá, eu sou o <a href="https://github.com/Aryagm">Breno... 👋</a>
+  Olá, eu sou o <a href="https://github.com/Aryagm">Breno... 👋🏻</a>
 </h1>
 
 <br>
