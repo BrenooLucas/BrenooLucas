@@ -11,7 +11,7 @@
 <br>
 
 
-<p>Tenho 27 anos e sou natural de São Paulo - SP.</p>
+<p>Tenho 28 anos e sou natural de São Paulo - SP.</p>
 
 <p>Sou formado em Ciência Da Computação (2021) pelo Instituto de Ciências Exatas e Tecnologia (ICET - UNIP), e sou Técnico em TI (2024), pelo SENAC. 
 
